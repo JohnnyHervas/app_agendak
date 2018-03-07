@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="campos_vacios">Debe rellenar todos los campos</string>
+    <string name="guardado_correctamente">Guardado correctamente</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <!-- Mensajes de información-->
+    <string name="guardado_correctamente">Guardado correctamente</string>
+    <string name="app_name">Agenda</string>
+    <!-- Mensajes de error-->
+    <string name="campos_vacios">Debe rellenar todos los campos</string>
+</resources>
